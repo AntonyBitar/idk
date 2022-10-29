@@ -32,6 +32,7 @@
         MsgBox("hello")
         Dim ff4 As String
         Dim ff5 As String
+        Dim ff6 As String
 
 
     End Sub

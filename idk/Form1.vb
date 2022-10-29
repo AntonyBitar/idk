@@ -10,6 +10,7 @@
         Dim x1 As Integer
         Dim x2 As Integer
         Dim ff As Integer
+        Dim ff1 As Integer
         deltaResult = delta(a, b, c)
         If deltaResult = 0 Then
             x1 = -b / (2 * a)

@@ -2,6 +2,7 @@
     Public Function delta(A As Integer, B As Integer, C As Integer) As Integer
         Dim b1 As Integer
         Dim b2 As Integer
+        Dim b3 As Integer
         Return (B * B) - 4 * A * C
 
     End Function

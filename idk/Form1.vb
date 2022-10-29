@@ -25,8 +25,6 @@
             MsgBox("delta is negative")
 
         End If
-        MsgBox("hi")
-        MsgBox("hi")
 
     End Sub
 

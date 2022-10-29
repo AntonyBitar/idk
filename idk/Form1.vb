@@ -12,7 +12,6 @@
         deltaResult = delta(a, b, c)
         If deltaResult = 0 Then
             x1 = -b / (2 * a)
-            x2 = x1
             txt_x1.Text = x1
             txt_x2.Text = x2
         ElseIf deltaResult > 0 Then

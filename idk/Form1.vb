@@ -1,6 +1,8 @@
 ﻿Public Class Form1
     Public Function delta(A As Integer, B As Integer, C As Integer) As Integer
+        Dim b1 As Integer
         Return (B * B) - 4 * A * C
+
     End Function
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Dim deltaResult As String

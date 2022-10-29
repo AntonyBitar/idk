@@ -30,6 +30,9 @@
 
         End If
         MsgBox("hello")
+        Dim ff4 As String
+
+
     End Sub
 
 End Class

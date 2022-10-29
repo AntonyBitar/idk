@@ -49,6 +49,7 @@
 
 
         Dim kl1 As String
+        Dim kl2 As String
     End Sub
 
 End Class

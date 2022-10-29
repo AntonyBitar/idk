@@ -20,8 +20,8 @@
             txt_x1.Text = x1
             txt_x2.Text = x2
         Else
-            txt_x1.Text = ""
-            txt_x2.Text = ""
+            txt_x1.Text = "hii"
+            txt_x2.Text = "hii"
             MsgBox("delta is negative")
 
         End If

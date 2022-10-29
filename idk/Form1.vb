@@ -50,6 +50,7 @@
 
         Dim kl1 As String
         Dim kl2 As String
+        Dim kl3 As String
     End Sub
 
 End Class
